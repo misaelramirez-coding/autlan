@@ -1,5 +1,8 @@
 # Valuation and Research process for AUTLANB MM target price
 
+`div1_mn`: research of manganese division
+`div2_au`: research of gold division
+
 In this notebooks, we will perform a research for a financial forecast of variables which driver is directly related with sales. Sales are divided in the following:
 1. *Mining-Metallurgical Manganese Products*
 2. *Energy*
